@@ -1,12 +1,12 @@
-# Facial Authentication System
+# Facial Authentication System🙂
 
-A web application for facial expression-based two-factor authentication, developed for the "Communication Beyond Words" hackathon.
+A web application for facial expression-based two-factor authentication, developed for the "Communication Beyond Words" hackathon.🗣️
 
-## Project Overview
+## Project Overview📽️
 
 This application provides a secure authentication system using facial expressions as a second factor of authentication. Users can register with traditional username/password credentials and then set up facial authentication by choosing a specific expression (e.g., happy, surprised, angry) that will serve as their "passkey" for future logins.
 
-## Key Features
+## Key Features🤞
 
 - **Two-Factor Authentication**: Traditional password + facial expression recognition
 - **Personalized Security**: Users can choose their own facial expression as a security factor
@@ -14,7 +14,7 @@ This application provides a secure authentication system using facial expression
 - **Responsive UI**: Works on mobile and desktop devices
 - **Real-time Feedback**: Provides immediate visual feedback during authentication
 
-## Tech Stack
+## Tech Stack🖥️
 
 ### Frontend
 - React.js for UI components
@@ -31,7 +31,7 @@ This application provides a secure authentication system using facial expression
 - bcrypt for password hashing
 - OpenCV and face_recognition library for server-side verification
 
-## Project Structure
+## Project Structure🌲
 
 The project is organized into two main directories:
 
@@ -109,7 +109,7 @@ backend/
 └── run.py                   # Entry point to run the app
 ```
 
-## Installation and Setup
+## Installation and Setup💽
 
 ### Prerequisites
 - Python 3.8+ for the backend
@@ -158,22 +158,22 @@ backend/
    ```
    The application will open at http://localhost:3000
 
-## Usage
+## Usage👨‍💻
 
 1. **Registration**: Create a new account with username, email, and password
 2. **Facial Setup**: After registration, set up your facial authentication by selecting a specific expression
 3. **Login**: Use your credentials to log in, followed by your facial expression for two-factor authentication
 4. **Dashboard**: View your account information and authentication status
 
-## Contributing
+## Contributing💬
 
 This project was created for the "Communication Beyond Words" hackathon. Contributions are welcome through pull requests.
 
-## License
+## License🪪
 
 MIT License
 
-## Acknowledgments
+## Acknowledgments😃
 
 - This project was inspired by the "Communication Beyond Words" hackathon theme
 - Thanks to the face-api.js library for making facial recognition accessible in the browser
