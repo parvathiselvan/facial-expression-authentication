@@ -1,0 +1,13 @@
+# Core requirements
+Flask==2.2.3
+Flask-Cors==3.0.10
+Flask-SQLAlchemy==3.0.3
+PyJWT==2.6.0
+Werkzeug==2.2.3
+python-dotenv==1.0.0
+
+# Face recognition
+deepface==0.0.79
+opencv-python==4.7.0.72
+numpy==1.24.2
+Pillow==9.4.0
